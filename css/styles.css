@@ -85,14 +85,12 @@ body .third-header {
 }
 @media screen and (min-width: 768px) {
   .header-main .container {
-    max-width: 768px;
     width: 100%;
   }
 }
 @media screen and (min-width: 1158px) {
   .header-main .container {
     display: flex;
-    max-width: 1158px;
   }
 }
 .header-main .container .logo-wrapper {
